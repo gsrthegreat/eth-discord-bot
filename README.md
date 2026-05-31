@@ -3,9 +3,8 @@
 A lightweight Discord bot for tracking Ethereum — live price, gas fees, wallet balances, and custom price alerts.
 
 ## Bot Invite
-```bash
+
 https://discord.com/oauth2/authorize?client_id=1507741096774729808&permissions=2048&integration_type=0&scope=bot
-```
 
 ## Commands
 
